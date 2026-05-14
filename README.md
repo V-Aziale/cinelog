@@ -13,4 +13,4 @@ g++ cinelog.cpp -o cinelog
 ./cinelog
 
 ## Status
-Work in progress — not all features are implemented yet.
+Completed, all core features are implemented.
